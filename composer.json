@@ -2,7 +2,6 @@
     "name": "yireo/test-theme-jpeg-logo",
     "license": "OSL-3.0",
     "type": "magento2-module",
-    "version": "0.0.1",
     "homepage": "",
     "description": "",
     "keywords":[ "composer-installer", "magento"],
