@@ -11,7 +11,7 @@
 use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
-    ComponentRegistrar::MODULE,
+    ComponentRegistrar::THEME,
     'frontend/Yireo/TestThemeJpegLogo',
     __DIR__
 );
